@@ -1163,6 +1163,7 @@ input, select, textarea {
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
+			filter: blur(3px)
 		}
 
 		body.is-article-visible #bg:after {
